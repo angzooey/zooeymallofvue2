@@ -131,7 +131,6 @@
   .home-nav {
     background-color: var(--color-tint);
     color: #fff;
-
     position: fixed;
     left: 0;
     right: 0;
